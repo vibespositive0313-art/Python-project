@@ -79,6 +79,18 @@ python3 main.py
 
 
 ## Screenshots
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211046" src="https://github.com/user-attachments/assets/d48d01c8-773b-44d2-b120-b31316c7a289" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211027" src="https://github.com/user-attachments/assets/c56e4f4b-bdce-4470-80cc-70a78bf42ade" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211103" src="https://github.com/user-attachments/assets/26bfb3b8-d868-493e-896d-a56fe0f40e2e" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211115" src="https://github.com/user-attachments/assets/ca755965-6fd2-41b2-af7c-281308e31529" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211358" src="https://github.com/user-attachments/assets/ee6b1799-ad26-4631-8906-1938991a0c3a" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211403" src="https://github.com/user-attachments/assets/6e3873ef-07a2-44b7-8d0e-52619454057d" />
+
+
+
+
+
 
 ## Author
 
