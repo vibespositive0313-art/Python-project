@@ -9,9 +9,9 @@ The implementations are tested
 
 Everything is exposed through one consistent interface
 
-That missing piece matters because it shows how top-down design (from Unit 1) can turn a collection of independent algorithms into a coherent, working application.
+That missing piece matters because it shows how top-down design  can turn a collection of independent algorithms into a coherent, working application.
 
-PySolve fills that gap for CSE1021. It takes every major algorithm category from the syllabus (Units 1, 3, 4, and 5) and packages them into a modular, tested Python toolkit driven by a single command-line app.
+PySolve fills that gap for CSE1021. It takes every major algorithm category from the syllabus and packages them into a modular, tested Python toolkit driven by a single command-line app.
 
 In practice, this means you can:
 
@@ -31,7 +31,7 @@ Instead of learning algorithms as isolated exercises, you get a unified learning
 In scope
 This toolkit focuses only on what’s actually taught in CSE1021 and stays aligned with Units 3, 4, and 5 of the syllabus.
 
-Numeric algorithms (Units 3 & 4)
+Numeric algorithms 
 
 Factorial
 
@@ -51,7 +51,7 @@ Fast exponentiation
 
 Pseudo-random number generation
 
-Array algorithms (Unit 5)
+Array algorithms 
 
 Reversal
 
@@ -65,7 +65,7 @@ Partitioning around a pivot
 
 Finding the Kth-smallest element
 
-Python collections (Unit 5)
+Python collections 
 
 Working with lists, tuples, sets, and dictionaries as covered in the course.
 
